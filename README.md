@@ -3,13 +3,13 @@
   This Flask Application uses covid19 FREE API services and utilizes the past data to visualize the trends in the covid19 cases.
 
 ### Requirements:
-  Flask
-  SQLALchemy
-  Requests
-  OS
-  Random
-  Pandas
-  Matplotlib
+  Flask                
+  SQLALchemy                
+  Requests                   
+  OS                    
+  Random                     
+  Pandas                     
+  Matplotlib                   
 
 ### Installation Instructions
   First create an virtual environment so that there won't be any effect on the original python libraries if anything goes wrong.
@@ -21,5 +21,5 @@
   ##### Note: You Can Copy the requirements to a text file and install them all at a time using pip or install them one by one.
 
 ### Running Flask Application
-  Make sure you have activated the virtual environment where flask is installed.
-  Then run the main.py file as you would run the python file
+  Make sure you have activated the virtual environment where flask is installed.                             
+  Then run the main.py file as you would run the python file.
