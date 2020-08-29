@@ -27,9 +27,9 @@
 ##### Note: Also Create static folder along with templates folder as the plots will be stored temporarily there.
 
 #### Folder Structure:
-Project Folder
-├── static
-│   └── CSS/JS Files
-└── Templates
-│   └── HTML Files
-└── main.py
+Project Folder                                                 
+├── static                                                                        
+│   └── CSS/JS Files                                                                     
+└── Templates                                                                      
+│   └── HTML Files                                                   
+└── main.py                                           
