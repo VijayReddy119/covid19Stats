@@ -16,7 +16,7 @@
   ###### Eg. python3 -m venv flask_env
   Now Activate the environment by going into the flask_env directory and then to scripts and then run activate.bat
   ###### Eg. flask_env\Scripts\activate
-  This activates the virtual environment
+  This activates the virtual environment                                      
   Now Proceed with the installation of requirements
   ##### Note: You Can Copy the requirements to a text file and install them all at a time using pip or install them one by one.
 
