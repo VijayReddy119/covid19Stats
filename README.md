@@ -23,3 +23,12 @@
 ### Running Flask Application
   Make sure you have activated the virtual environment where flask is installed.                             
   Then run the main.py file as you would run the python file.
+
+##### Note: Also Create static folder along with templates folder as the plots will be stored temporarily there.
+
+#### Folder Structure:
+  ##### -Your Project
+  ##### |-static
+  #####   |- css/js Files
+  ##### |-templates
+  #####   |- HTML Files
